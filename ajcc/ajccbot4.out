@@ -1,0 +1,586 @@
+2014-07-27 Sunday 09:45:12 EDT
+2014-07-27 Sunday 09:50:02 EDT
+2014-07-27 Sunday 09:55:03 EDT
+2014-07-27 Sunday 10:00:02 EDT
+2014-07-27 Sunday 10:05:03 EDT
+2014-07-27 Sunday 10:10:02 EDT
+2014-07-27 Sunday 10:15:03 EDT
+2014-07-27 Sunday 10:20:03 EDT
+2014-07-27 Sunday 10:25:02 EDT
+2014-07-27 Sunday 10:30:03 EDT
+2014-07-27 Sunday 10:35:02 EDT
+2014-07-27 Sunday 10:40:03 EDT
+2014-07-27 Sunday 10:45:02 EDT
+2014-07-27 Sunday 10:50:03 EDT
+2014-07-27 Sunday 10:55:02 EDT
+2014-07-27 Sunday 11:00:02 EDT
+2014-07-27 Sunday 11:05:03 EDT
+2014-07-27 Sunday 11:10:02 EDT
+2014-07-27 Sunday 11:15:03 EDT
+2014-07-27 Sunday 11:20:02 EDT
+2014-07-27 Sunday 11:25:03 EDT
+2014-07-27 Sunday 11:30:02 EDT
+2014-07-27 Sunday 11:35:03 EDT
+2014-07-27 Sunday 11:40:04 EDT
+2014-07-27 Sunday 11:45:06 EDT
+2014-07-27 Sunday 11:50:02 EDT
+2014-07-27 Sunday 11:55:03 EDT
+2014-07-27 Sunday 12:00:02 EDT
+2014-07-27 Sunday 12:05:03 EDT
+2014-07-27 Sunday 12:10:02 EDT
+2014-07-27 Sunday 12:15:02 EDT
+2014-07-27 Sunday 12:20:02 EDT
+2014-07-27 Sunday 12:25:04 EDT
+2014-07-27 Sunday 12:30:02 EDT
+2014-07-27 Sunday 12:35:03 EDT
+2014-07-27 Sunday 12:40:02 EDT
+2014-07-27 Sunday 12:45:03 EDT
+2014-07-27 Sunday 12:50:02 EDT
+2014-07-27 Sunday 12:55:03 EDT
+2014-07-27 Sunday 13:00:02 EDT
+2014-07-27 Sunday 13:05:03 EDT
+2014-07-27 Sunday 13:10:02 EDT
+2014-07-27 Sunday 13:15:04 EDT
+2014-07-27 Sunday 13:20:02 EDT
+2014-07-27 Sunday 13:25:03 EDT
+2014-07-27 Sunday 13:30:02 EDT
+2014-07-27 Sunday 13:35:03 EDT
+2014-07-27 Sunday 13:40:02 EDT
+2014-07-27 Sunday 13:45:03 EDT
+2014-07-27 Sunday 13:50:02 EDT
+2014-07-27 Sunday 13:55:02 EDT
+2014-07-27 Sunday 14:00:05 EDT
+2014-07-27 Sunday 14:05:02 EDT
+2014-07-27 Sunday 14:10:02 EDT
+2014-07-27 Sunday 14:15:03 EDT
+2014-07-27 Sunday 14:20:04 EDT
+2014-07-27 Sunday 14:25:03 EDT
+2014-07-27 Sunday 14:30:02 EDT
+2014-07-27 Sunday 14:35:02 EDT
+2014-07-27 Sunday 14:40:03 EDT
+2014-07-27 Sunday 14:45:02 EDT
+2014-07-27 Sunday 14:50:02 EDT
+2014-07-27 Sunday 14:55:03 EDT
+2014-07-27 Sunday 15:00:02 EDT
+2014-07-27 Sunday 15:05:02 EDT
+2014-07-27 Sunday 15:10:03 EDT
+2014-07-27 Sunday 15:15:02 EDT
+2014-07-27 Sunday 15:20:02 EDT
+2014-07-27 Sunday 15:25:03 EDT
+2014-07-27 Sunday 15:30:02 EDT
+2014-07-27 Sunday 15:35:02 EDT
+2014-07-27 Sunday 15:40:03 EDT
+2014-07-27 Sunday 15:45:02 EDT
+2014-07-27 Sunday 15:50:02 EDT
+2014-07-27 Sunday 15:55:03 EDT
+2014-07-27 Sunday 16:00:02 EDT
+2014-07-27 Sunday 16:05:03 EDT
+2014-07-27 Sunday 16:10:02 EDT
+2014-07-27 Sunday 16:15:02 EDT
+2014-07-27 Sunday 16:20:03 EDT
+2014-07-27 Sunday 16:25:02 EDT
+2014-07-27 Sunday 16:30:03 EDT
+2014-07-27 Sunday 16:35:02 EDT
+2014-07-27 Sunday 16:40:02 EDT
+2014-07-27 Sunday 16:45:03 EDT
+2014-07-27 Sunday 16:50:02 EDT
+2014-07-27 Sunday 16:55:23 EDT
+2014-07-27 Sunday 17:00:03 EDT
+2014-07-27 Sunday 17:05:02 EDT
+2014-07-27 Sunday 17:10:03 EDT
+2014-07-27 Sunday 17:15:02 EDT
+2014-07-27 Sunday 17:20:03 EDT
+2014-07-27 Sunday 17:25:02 EDT
+2014-07-27 Sunday 17:30:03 EDT
+2014-07-27 Sunday 17:35:02 EDT
+2014-07-27 Sunday 17:40:02 EDT
+2014-07-27 Sunday 17:45:03 EDT
+2014-07-27 Sunday 17:50:02 EDT
+2014-07-27 Sunday 17:55:02 EDT
+2014-07-27 Sunday 18:00:03 EDT
+2014-07-27 Sunday 18:05:02 EDT
+2014-07-27 Sunday 18:10:03 EDT
+2014-07-27 Sunday 18:15:02 EDT
+2014-07-27 Sunday 18:20:03 EDT
+2014-07-27 Sunday 18:25:03 EDT
+2014-07-27 Sunday 18:30:03 EDT
+2014-07-27 Sunday 18:35:02 EDT
+2014-07-27 Sunday 18:40:03 EDT
+2014-07-27 Sunday 18:45:04 EDT
+Traceback (most recent call last):
+  File "/home/duporg/ccdiajcc/ajccbot4.py", line 41, in <module>
+    response = opener.open(url +'.html', timeout = 120)
+  File "/usr/lib/python2.6/urllib2.py", line 391, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.6/urllib2.py", line 409, in _open
+    '_open', req)
+  File "/usr/lib/python2.6/urllib2.py", line 369, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.6/urllib2.py", line 1170, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.6/urllib2.py", line 1145, in do_open
+    raise URLError(err)
+urllib2.URLError: <urlopen error [Errno -2] Name or service not known>
+2014-07-27 Sunday 18:55:14 EDT
+2014-07-27 Sunday 19:00:02 EDT
+2014-07-27 Sunday 19:05:03 EDT
+2014-07-27 Sunday 19:10:02 EDT
+2014-07-27 Sunday 19:15:06 EDT
+2014-07-27 Sunday 19:20:02 EDT
+2014-07-27 Sunday 19:25:02 EDT
+2014-07-27 Sunday 19:30:03 EDT
+2014-07-27 Sunday 19:35:02 EDT
+2014-07-27 Sunday 19:40:02 EDT
+2014-07-27 Sunday 19:45:03 EDT
+2014-07-27 Sunday 19:50:02 EDT
+2014-07-27 Sunday 19:55:03 EDT
+2014-07-27 Sunday 20:00:02 EDT
+2014-07-27 Sunday 20:05:03 EDT
+2014-07-27 Sunday 20:10:02 EDT
+2014-07-27 Sunday 20:15:02 EDT
+2014-07-27 Sunday 20:20:02 EDT
+2014-07-27 Sunday 20:25:02 EDT
+2014-07-27 Sunday 20:30:02 EDT
+2014-07-27 Sunday 20:35:02 EDT
+2014-07-27 Sunday 20:40:03 EDT
+2014-07-27 Sunday 20:45:02 EDT
+2014-07-27 Sunday 20:50:03 EDT
+2014-07-27 Sunday 20:55:02 EDT
+2014-07-27 Sunday 21:00:03 EDT
+2014-07-27 Sunday 21:05:02 EDT
+2014-07-27 Sunday 21:10:02 EDT
+2014-07-27 Sunday 21:15:03 EDT
+2014-07-27 Sunday 21:20:02 EDT
+2014-07-27 Sunday 21:25:03 EDT
+2014-07-27 Sunday 21:30:02 EDT
+2014-07-27 Sunday 21:35:03 EDT
+2014-07-27 Sunday 21:40:02 EDT
+2014-07-27 Sunday 21:45:03 EDT
+2014-07-27 Sunday 21:50:02 EDT
+2014-07-27 Sunday 21:55:02 EDT
+2014-07-27 Sunday 22:00:03 EDT
+2014-07-27 Sunday 22:05:02 EDT
+2014-07-27 Sunday 22:10:02 EDT
+2014-07-27 Sunday 22:15:03 EDT
+2014-07-27 Sunday 22:20:02 EDT
+2014-07-27 Sunday 22:25:03 EDT
+2014-07-27 Sunday 22:30:02 EDT
+2014-07-27 Sunday 22:35:03 EDT
+2014-07-27 Sunday 22:40:02 EDT
+2014-07-27 Sunday 22:45:03 EDT
+2014-07-27 Sunday 22:50:02 EDT
+2014-07-27 Sunday 22:55:03 EDT
+2014-07-27 Sunday 23:00:02 EDT
+{"created_at":"Mon Jul 28 11:05:06 +0800 2014","id":3737264297620856,"mid":"3737264297620856","idstr":"3737264297620856","text":"河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8，更新时间：2014-07-28 11:05 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 03:05:07 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493592961851326464, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci\uff0c\u66f4\u65b0\u65f6\u95f4\uff1a2014-07-28 11:05 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 25, "friends_count": 47, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 33, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+Traceback (most recent call last):
+  File "/home/duporg/ccdiajcc/ajccbot4.py", line 114, in <module>
+    urlandtxtIn24hFile.write(ymdhStr + ',' + urlItem + ',' + txtItem +'\n')
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 67-86: ordinal not in range(128)
+2014-07-27 Sunday 23:10:03 EDT
+2014-07-27 Sunday 23:15:03 EDT
+2014-07-27 Sunday 23:20:03 EDT
+2014-07-27 Sunday 23:25:03 EDT
+2014-07-27 Sunday 23:30:02 EDT
+2014-07-27 Sunday 23:35:03 EDT
+2014-07-27 Sunday 23:40:02 EDT
+2014-07-27 Sunday 23:45:03 EDT
+2014-07-27 Sunday 23:50:03 EDT
+2014-07-27 Sunday 23:55:04 EDT
+{"created_at":"Mon Jul 28 12:10:07 +0800 2014","id":3737280655490594,"mid":"3737280655490594","idstr":"3737280655490594","text":"河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8，更新时间：2014-07-28 12:10 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 04:10:07 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493609320463224832, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci\uff0c\u66f4\u65b0\u65f6\u95f4\uff1a2014-07-28 12:10 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 25, "friends_count": 47, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 34, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Mon Jul 28 12:10:12 +0800 2014","id":3737280688776211,"mid":"3737280688776211","idstr":"3737280688776211","text":"河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV，更新时间：2014-07-28 12:10 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 04:10:14 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493609351807270912, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0\uff0c\u66f4\u65b0\u65f6\u95f4\uff1a2014-07-28 12:10 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 25, "friends_count": 47, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 35, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Mon Jul 28 12:10:23 +0800 2014","id":3737280726542640,"mid":"3737280726542640","idstr":"3737280726542640","text":"河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe，更新时间：2014-07-28 12:10 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 04:10:23 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493609389715382273, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz\uff0c\u66f4\u65b0\u65f6\u95f4\uff1a2014-07-28 12:10 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 25, "friends_count": 47, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 36, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 00:10:28 EDT
+2014-07-28 Monday 00:15:02 EDT
+2014-07-28 Monday 00:20:02 EDT
+2014-07-28 Monday 00:25:03 EDT
+2014-07-28 Monday 00:30:03 EDT
+2014-07-28 Monday 00:35:02 EDT
+2014-07-28 Monday 00:40:02 EDT
+2014-07-28 Monday 00:45:03 EDT
+2014-07-28 Monday 00:50:02 EDT
+2014-07-28 Monday 00:55:02 EDT
+2014-07-28 Monday 01:00:03 EDT
+2014-07-28 Monday 01:05:02 EDT
+2014-07-28 Monday 01:10:03 EDT
+2014-07-28 Monday 01:15:03 EDT
+2014-07-28 Monday 01:20:03 EDT
+2014-07-28 Monday 01:25:02 EDT
+2014-07-28 Monday 01:30:03 EDT
+2014-07-28 Monday 01:35:02 EDT
+2014-07-28 Monday 01:40:03 EDT
+2014-07-28 Monday 01:45:02 EDT
+2014-07-28 Monday 01:50:02 EDT
+2014-07-28 Monday 01:55:02 EDT
+Traceback (most recent call last):
+  File "/home/duporg/ccdiajcc/ajccbot4.py", line 143, in <module>
+    msgWeibo = u'【24小时滚动播报】%s，来源：%s #中纪委案件查处#' % (ymdhUrlTxtList[2], ymdhUrlTxtList[1])
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe6 in position 0: ordinal not in range(128)
+2014-07-28 Monday 02:05:03 EDT
+2014-07-28 Monday 02:10:02 EDT
+2014-07-28 Monday 02:15:03 EDT
+2014-07-28 Monday 02:20:02 EDT
+2014-07-28 Monday 02:25:03 EDT
+2014-07-28 Monday 02:30:07 EDT
+2014-07-28 Monday 02:35:02 EDT
+2014-07-28 Monday 02:40:02 EDT
+2014-07-28 Monday 02:45:03 EDT
+2014-07-28 Monday 02:50:02 EDT
+2014-07-28 Monday 02:55:02 EDT
+2014-07-28 Monday 03:00:02 EDT
+2014-07-28 Monday 03:05:03 EDT
+2014-07-28 Monday 03:10:03 EDT
+2014-07-28 Monday 03:15:02 EDT
+2014-07-28 Monday 03:20:03 EDT
+2014-07-28 Monday 03:25:03 EDT
+2014-07-28 Monday 03:30:02 EDT
+2014-07-28 Monday 03:35:03 EDT
+2014-07-28 Monday 03:40:02 EDT
+2014-07-28 Monday 03:45:02 EDT
+2014-07-28 Monday 03:50:03 EDT
+2014-07-28 Monday 03:55:02 EDT
+{"created_at":"Mon Jul 28 16:00:04 +0800 2014","id":3737338536916718,"mid":"3737338536916718","idstr":"3737338536916718","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 08:00:06 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493667198691717121, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 27, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 36, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Mon Jul 28 16:00:12 +0800 2014","id":3737338570228107,"mid":"3737338570228107","idstr":"3737338570228107","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 08:00:14 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493667231767994368, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 27, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 37, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Mon Jul 28 16:00:21 +0800 2014","id":3737338599612394,"mid":"3737338599612394","idstr":"3737338599612394","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 08:00:22 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493667262923309056, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 27, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 38, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 04:00:26 EDT
+2014-07-28 Monday 04:05:02 EDT
+2014-07-28 Monday 04:10:03 EDT
+2014-07-28 Monday 04:15:02 EDT
+2014-07-28 Monday 04:20:03 EDT
+2014-07-28 Monday 04:25:02 EDT
+2014-07-28 Monday 04:30:02 EDT
+2014-07-28 Monday 04:35:03 EDT
+2014-07-28 Monday 04:40:03 EDT
+2014-07-28 Monday 04:45:02 EDT
+2014-07-28 Monday 04:50:03 EDT
+2014-07-28 Monday 04:55:03 EDT
+2014-07-28 Monday 05:00:02 EDT
+2014-07-28 Monday 05:05:03 EDT
+2014-07-28 Monday 05:10:02 EDT
+2014-07-28 Monday 05:15:03 EDT
+2014-07-28 Monday 05:20:02 EDT
+2014-07-28 Monday 05:25:03 EDT
+2014-07-28 Monday 05:30:02 EDT
+2014-07-28 Monday 05:35:02 EDT
+2014-07-28 Monday 05:40:02 EDT
+2014-07-28 Monday 05:45:03 EDT
+2014-07-28 Monday 05:50:02 EDT
+2014-07-28 Monday 05:55:02 EDT
+{"created_at":"Mon Jul 28 18:00:05 +0800 2014","id":3737368735538478,"mid":"3737368735538478","idstr":"3737368735538478","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+Traceback (most recent call last):
+  File "/home/duporg/ccdiajcc/ajccbot4.py", line 150, in <module>
+    results = tw_api.PostUpdate(msgTweet.encode('utf-8'))
+  File "/usr/local/lib/python2.6/dist-packages/twitter/api.py", line 881, in PostUpdate
+    data = self._ParseAndCheckTwitter(json.content)
+  File "/usr/local/lib/python2.6/dist-packages/twitter/api.py", line 3413, in _ParseAndCheckTwitter
+    self._CheckForTwitterError(data)
+  File "/usr/local/lib/python2.6/dist-packages/twitter/api.py", line 3440, in _CheckForTwitterError
+    raise TwitterError(data['errors'])
+twitter.error.TwitterError: [{u'message': u'Status is a duplicate.', u'code': 187}]
+2014-07-28 Monday 06:05:03 EDT
+2014-07-28 Monday 06:10:02 EDT
+2014-07-28 Monday 06:15:03 EDT
+2014-07-28 Monday 06:20:02 EDT
+2014-07-28 Monday 06:25:03 EDT
+2014-07-28 Monday 06:30:03 EDT
+2014-07-28 Monday 06:35:02 EDT
+2014-07-28 Monday 06:40:03 EDT
+2014-07-28 Monday 06:45:06 EDT
+2014-07-28 Monday 06:50:02 EDT
+2014-07-28 Monday 06:55:03 EDT
+2014-07-28 Monday 07:00:02 EDT
+2014-07-28 Monday 07:05:02 EDT
+2014-07-28 Monday 07:10:03 EDT
+2014-07-28 Monday 07:15:02 EDT
+2014-07-28 Monday 07:20:02 EDT
+2014-07-28 Monday 07:25:03 EDT
+2014-07-28 Monday 07:30:02 EDT
+2014-07-28 Monday 07:35:02 EDT
+2014-07-28 Monday 07:40:03 EDT
+2014-07-28 Monday 07:45:02 EDT
+2014-07-28 Monday 07:50:02 EDT
+2014-07-28 Monday 07:55:02 EDT
+2014-07-28 Monday 08:00:02 EDT
+2014-07-28 Monday 08:05:02 EDT
+2014-07-28 Monday 08:10:03 EDT
+2014-07-28 Monday 08:15:02 EDT
+2014-07-28 Monday 08:20:03 EDT
+2014-07-28 Monday 08:25:02 EDT
+2014-07-28 Monday 08:30:04 EDT
+2014-07-28 Monday 08:35:03 EDT
+2014-07-28 Monday 08:40:02 EDT
+2014-07-28 Monday 08:45:02 EDT
+2014-07-28 Monday 08:50:02 EDT
+2014-07-28 Monday 08:55:05 EDT
+2014-07-28 Monday 09:00:05 EDT
+2014-07-28 Monday 09:05:05 EDT
+2014-07-28 Monday 09:10:02 EDT
+2014-07-28 Monday 09:15:04 EDT
+2014-07-28 Monday 09:20:02 EDT
+2014-07-28 Monday 09:25:03 EDT
+2014-07-28 Monday 11:20:02 EDT
+2014-07-28 Monday 11:25:03 EDT
+2014-07-28 Monday 11:30:05 EDT
+2014-07-28 Monday 11:35:03 EDT
+2014-07-28 Monday 11:40:02 EDT
+2014-07-28 Monday 11:45:03 EDT
+2014-07-28 Monday 11:50:02 EDT
+2014-07-28 Monday 11:55:06 EDT
+{"created_at":"Tue Jul 29 00:00:06 +0800 2014","id":3737459328706534,"mid":"3737459328706534","idstr":"3737459328706534","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 16:00:05 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493787991253712896, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 0", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 39, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 00:00:10 +0800 2014","id":3737459357778286,"mid":"3737459357778286","idstr":"3737459357778286","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 16:00:13 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493788022568390656, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 1", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 40, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 00:00:20 +0800 2014","id":3737459403942481,"mid":"3737459403942481","idstr":"3737459403942481","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 16:00:24 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493788069045501952, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 2", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 41, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 12:00:28 EDT
+2014-07-28 Monday 12:05:02 EDT
+2014-07-28 Monday 12:10:06 EDT
+2014-07-28 Monday 12:15:02 EDT
+2014-07-28 Monday 12:20:03 EDT
+2014-07-28 Monday 12:25:03 EDT
+2014-07-28 Monday 12:30:02 EDT
+2014-07-28 Monday 12:35:02 EDT
+2014-07-28 Monday 12:40:02 EDT
+2014-07-28 Monday 12:45:03 EDT
+2014-07-28 Monday 12:50:02 EDT
+2014-07-28 Monday 12:55:02 EDT
+2014-07-28 Monday 13:00:02 EDT
+2014-07-28 Monday 13:05:02 EDT
+2014-07-28 Monday 13:10:02 EDT
+2014-07-28 Monday 13:15:02 EDT
+2014-07-28 Monday 13:20:03 EDT
+2014-07-28 Monday 13:25:02 EDT
+2014-07-28 Monday 13:30:02 EDT
+2014-07-28 Monday 13:35:02 EDT
+2014-07-28 Monday 13:40:02 EDT
+2014-07-28 Monday 13:45:04 EDT
+2014-07-28 Monday 13:50:02 EDT
+2014-07-28 Monday 13:55:02 EDT
+{"created_at":"Tue Jul 29 02:00:06 +0800 2014","id":3737489531625327,"mid":"3737489531625327","idstr":"3737489531625327","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 18:00:06 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493818194462003200, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 3", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 42, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 02:00:13 +0800 2014","id":3737489561293972,"mid":"3737489561293972","idstr":"3737489561293972","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 18:00:14 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493818226158346240, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 4", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 43, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 02:00:21 +0800 2014","id":3737489594558999,"mid":"3737489594558999","idstr":"3737489594558999","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 18:00:22 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493818258546778112, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 5", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 44, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 14:00:26 EDT
+2014-07-28 Monday 14:05:02 EDT
+2014-07-28 Monday 14:10:02 EDT
+2014-07-28 Monday 14:15:02 EDT
+2014-07-28 Monday 14:20:03 EDT
+2014-07-28 Monday 14:25:02 EDT
+2014-07-28 Monday 14:30:03 EDT
+2014-07-28 Monday 14:35:03 EDT
+2014-07-28 Monday 14:40:03 EDT
+2014-07-28 Monday 14:45:02 EDT
+2014-07-28 Monday 14:50:03 EDT
+2014-07-28 Monday 14:55:02 EDT
+2014-07-28 Monday 15:00:02 EDT
+2014-07-28 Monday 15:05:03 EDT
+2014-07-28 Monday 15:10:02 EDT
+2014-07-28 Monday 15:15:03 EDT
+2014-07-28 Monday 15:20:02 EDT
+2014-07-28 Monday 15:25:03 EDT
+2014-07-28 Monday 15:30:02 EDT
+2014-07-28 Monday 15:35:03 EDT
+2014-07-28 Monday 15:40:02 EDT
+2014-07-28 Monday 15:45:03 EDT
+2014-07-28 Monday 15:50:02 EDT
+2014-07-28 Monday 15:55:03 EDT
+{"created_at":"Tue Jul 29 04:00:05 +0800 2014","id":3737519726277358,"mid":"3737519726277358","idstr":"3737519726277358","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 20:00:06 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493848390854537216, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 6", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 45, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 04:00:13 +0800 2014","id":3737519760255978,"mid":"3737519760255978","idstr":"3737519760255978","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 20:00:13 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493848422051770369, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 7", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 46, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 04:00:20 +0800 2014","id":3737519789629470,"mid":"3737519789629470","idstr":"3737519789629470","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 20:00:21 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493848453123145728, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 8", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 28, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 47, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 16:00:25 EDT
+2014-07-28 Monday 16:05:02 EDT
+2014-07-28 Monday 16:10:02 EDT
+2014-07-28 Monday 16:15:03 EDT
+2014-07-28 Monday 16:20:03 EDT
+2014-07-28 Monday 16:25:02 EDT
+2014-07-28 Monday 16:30:03 EDT
+2014-07-28 Monday 16:35:02 EDT
+2014-07-28 Monday 16:40:03 EDT
+2014-07-28 Monday 16:45:02 EDT
+2014-07-28 Monday 16:50:02 EDT
+2014-07-28 Monday 16:55:03 EDT
+2014-07-28 Monday 17:00:02 EDT
+2014-07-28 Monday 17:05:03 EDT
+2014-07-28 Monday 17:10:02 EDT
+2014-07-28 Monday 17:15:02 EDT
+2014-07-28 Monday 17:20:03 EDT
+2014-07-28 Monday 17:25:02 EDT
+2014-07-28 Monday 17:30:02 EDT
+2014-07-28 Monday 17:35:03 EDT
+2014-07-28 Monday 17:40:02 EDT
+2014-07-28 Monday 17:45:02 EDT
+2014-07-28 Monday 17:50:03 EDT
+2014-07-28 Monday 17:55:02 EDT
+{"created_at":"Tue Jul 29 06:00:05 +0800 2014","id":3737549925265055,"mid":"3737549925265055","idstr":"3737549925265055","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 22:00:06 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493878589973331968, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 9", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 29, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 48, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 06:00:13 +0800 2014","id":3737549959073082,"mid":"3737549959073082","idstr":"3737549959073082","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 22:00:13 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493878621032157184, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 10", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 29, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 49, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 06:00:20 +0800 2014","id":3737549988459303,"mid":"3737549988459303","idstr":"3737549988459303","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Mon Jul 28 22:00:21 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493878652317495296, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 11", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 29, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 50, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 18:00:25 EDT
+2014-07-28 Monday 18:05:02 EDT
+2014-07-28 Monday 18:10:03 EDT
+2014-07-28 Monday 18:15:02 EDT
+2014-07-28 Monday 18:20:02 EDT
+2014-07-28 Monday 18:25:03 EDT
+2014-07-28 Monday 18:30:02 EDT
+2014-07-28 Monday 18:35:02 EDT
+2014-07-28 Monday 18:40:03 EDT
+2014-07-28 Monday 18:45:02 EDT
+2014-07-28 Monday 18:50:03 EDT
+2014-07-28 Monday 18:55:02 EDT
+2014-07-28 Monday 19:00:03 EDT
+2014-07-28 Monday 19:05:02 EDT
+2014-07-28 Monday 19:10:03 EDT
+2014-07-28 Monday 19:15:02 EDT
+2014-07-28 Monday 19:20:02 EDT
+2014-07-28 Monday 19:25:02 EDT
+2014-07-28 Monday 19:30:03 EDT
+2014-07-28 Monday 19:35:02 EDT
+2014-07-28 Monday 19:40:03 EDT
+2014-07-28 Monday 19:45:02 EDT
+2014-07-28 Monday 19:50:24 EDT
+2014-07-28 Monday 19:55:02 EDT
+{"created_at":"Tue Jul 29 08:00:05 +0800 2014","id":3737580124251970,"mid":"3737580124251970","idstr":"3737580124251970","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 00:00:05 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493908786755940354, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/PvnbAZqrci #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 12", "truncated": false, "urls": {"http://t.co/PvnbAZqrci": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 30, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 51, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 08:00:12 +0800 2014","id":3737580154023945,"mid":"3737580154023945","idstr":"3737580154023945","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 00:00:13 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493908819471134723, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/fg3bSBReSq #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 13", "truncated": false, "urls": {"http://t.co/fg3bSBReSq": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 30, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 52, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 08:00:19 +0800 2014","id":3737580187618338,"mid":"3737580187618338","idstr":"3737580187618338","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 00:00:21 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493908851658215424, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/WIMWyWyPFy #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 14", "truncated": false, "urls": {"http://t.co/WIMWyWyPFy": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 30, "friends_count": 48, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 53, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 20:00:25 EDT
+2014-07-28 Monday 20:05:02 EDT
+2014-07-28 Monday 20:10:03 EDT
+2014-07-28 Monday 20:15:03 EDT
+2014-07-28 Monday 20:20:02 EDT
+2014-07-28 Monday 20:25:02 EDT
+2014-07-28 Monday 20:30:03 EDT
+2014-07-28 Monday 20:35:02 EDT
+2014-07-28 Monday 20:40:03 EDT
+2014-07-28 Monday 20:45:02 EDT
+2014-07-28 Monday 20:50:04 EDT
+2014-07-28 Monday 20:55:02 EDT
+2014-07-28 Monday 21:00:02 EDT
+2014-07-28 Monday 21:05:03 EDT
+2014-07-28 Monday 21:10:02 EDT
+2014-07-28 Monday 21:15:04 EDT
+2014-07-28 Monday 21:20:02 EDT
+2014-07-28 Monday 21:25:02 EDT
+2014-07-28 Monday 21:30:03 EDT
+2014-07-28 Monday 21:35:02 EDT
+2014-07-28 Monday 21:40:03 EDT
+2014-07-28 Monday 21:45:03 EDT
+2014-07-28 Monday 21:50:03 EDT
+2014-07-28 Monday 21:55:02 EDT
+{"created_at":"Tue Jul 29 10:00:04 +0800 2014","id":3737610323396596,"mid":"3737610323396596","idstr":"3737610323396596","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 02:00:06 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493938988374179844, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/BiqKzk4lhU #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 15", "truncated": false, "urls": {"http://t.co/BiqKzk4lhU": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 31, "friends_count": 49, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 54, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 10:00:12 +0800 2014","id":3737610357141518,"mid":"3737610357141518","idstr":"3737610357141518","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 02:00:14 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493939021123297280, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/fg3bSBReSq #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 16", "truncated": false, "urls": {"http://t.co/fg3bSBReSq": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 31, "friends_count": 49, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 55, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 10:00:21 +0800 2014","id":3737610390721325,"mid":"3737610390721325","idstr":"3737610390721325","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 02:00:21 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493939053541093376, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/WIMWyWyPFy #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 17", "truncated": false, "urls": {"http://t.co/WIMWyWyPFy": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 31, "friends_count": 49, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 56, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-28 Monday 22:00:26 EDT
+2014-07-28 Monday 22:05:02 EDT
+2014-07-28 Monday 22:10:03 EDT
+2014-07-28 Monday 22:15:02 EDT
+2014-07-28 Monday 22:20:02 EDT
+2014-07-28 Monday 22:25:02 EDT
+2014-07-28 Monday 22:30:03 EDT
+2014-07-28 Monday 22:35:02 EDT
+2014-07-28 Monday 22:40:03 EDT
+2014-07-28 Monday 22:45:02 EDT
+2014-07-28 Monday 22:50:02 EDT
+2014-07-28 Monday 22:55:03 EDT
+2014-07-28 Monday 23:00:02 EDT
+2014-07-28 Monday 23:05:03 EDT
+2014-07-28 Monday 23:10:02 EDT
+2014-07-28 Monday 23:15:05 EDT
+2014-07-28 Monday 23:20:02 EDT
+2014-07-28 Monday 23:25:02 EDT
+2014-07-28 Monday 23:30:11 EDT
+2014-07-28 Monday 23:35:03 EDT
+2014-07-28 Monday 23:40:03 EDT
+2014-07-28 Monday 23:45:03 EDT
+2014-07-28 Monday 23:50:03 EDT
+2014-07-28 Monday 23:55:03 EDT
+{"created_at":"Tue Jul 29 12:00:03 +0800 2014","id":3737640522668090,"mid":"3737640522668090","idstr":"3737640522668090","text":"【24小时滚动播报】河南人大常委会财经委主任委员刘长春被调查，来源：http://t.cn/RPtNiD8 #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 04:00:06 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493969187434287106, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u5927\u5e38\u59d4\u4f1a\u8d22\u7ecf\u59d4\u4e3b\u4efb\u59d4\u5458\u5218\u957f\u6625\u88ab\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/BiqKzk4lhU #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 18", "truncated": false, "urls": {"http://t.co/BiqKzk4lhU": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25613.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 31, "friends_count": 50, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 57, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 12:00:13 +0800 2014","id":3737640556258282,"mid":"3737640556258282","idstr":"3737640556258282","text":"【24小时滚动播报】河南警察学院院长毛志斌目前正接受组织调查，来源：http://t.cn/RPtNjQV #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 04:00:13 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493969219038765057, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u8b66\u5bdf\u5b66\u9662\u9662\u957f\u6bdb\u5fd7\u658c\u76ee\u524d\u6b63\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/j65XQ6kyU0 #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 19", "truncated": false, "urls": {"http://t.co/j65XQ6kyU0": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25612.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 31, "friends_count": 50, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 58, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+{"created_at":"Tue Jul 29 12:00:20 +0800 2014","id":3737640589843829,"mid":"3737640589843829","idstr":"3737640589843829","text":"【24小时滚动播报】河南人民广播电台台长李新全接受组织调查，来源：http://t.cn/RPtNTwe #中纪委案件查处#","source":"<a href=\"http://open.weibo.com\" rel=\"nofollow\">未通过审核应用</a>","favorited":false,"truncated":false,"in_reply_to_status_id":"","in_reply_to_user_id":"","in_reply_to_screen_name":"","pic_urls":[],"geo":null,"user":{"id":5216058845,"idstr":"5216058845","class":1,"screen_name":"ccdiajcc","name":"ccdiajcc","province":"11","city":"8","location":"北京 海淀区","description":"每五分钟检索一次官方网站，自动发布最新信息。每两小时滚动重播最近二十四小时的微博。","url":"","profile_image_url":"http://tp2.sinaimg.cn/5216058845/50/5701146716/1","profile_url":"ccdiajcc","domain":"ccdiajcc","weihao":"","gender":"m","followers_count":6,"friends_count":52,"statuses_count":32,"favourites_count":0,"created_at":"Mon Jul 14 15:22:00 +0800 2014","following":false,"allow_all_act_msg":false,"geo_enabled":true,"verified":false,"verified_type":-1,"remark":"","ptype":0,"allow_all_comment":true,"avatar_large":"http://tp2.sinaimg.cn/5216058845/180/5701146716/1","avatar_hd":"http://ww4.sinaimg.cn/crop.0.0.299.299.1024/005H03bnjw1eintihr57cj308c08caac.jpg","verified_reason":"","verified_trade":"","verified_reason_url":"","verified_source":"","verified_source_url":"","follow_me":false,"online_status":0,"bi_followers_count":0,"lang":"zh-cn","star":0,"mbtype":0,"mbrank":0,"block_word":0,"block_app":0},"reposts_count":0,"comments_count":0,"attitudes_count":0,"mlevel":0,"visible":{"type":0,"list_id":0},"darwin_tags":[]}
+{"created_at": "Tue Jul 29 04:00:21 +0000 2014", "favorited": false, "hashtags": ["\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904"], "id": 493969251896930304, "lang": "zh", "retweeted": false, "source": "<a href=\"http://www.ccdi.gov.cn/ajcc/index.html\" rel=\"nofollow\">\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904</a>", "text": "\u301024\u5c0f\u65f6\u6eda\u52a8\u64ad\u62a5\u3011\u6cb3\u5357\u4eba\u6c11\u5e7f\u64ad\u7535\u53f0\u53f0\u957f\u674e\u65b0\u5168\u63a5\u53d7\u7ec4\u7ec7\u8c03\u67e5\uff0c\u6765\u6e90\uff1ahttp://t.co/ibHzVsLCZz #\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904 20", "truncated": false, "urls": {"http://t.co/ibHzVsLCZz": "http://www.ccdi.gov.cn/ajcc/201407/t20140728_25611.html"}, "user": {"created_at": "Tue Jul 15 14:53:38 +0000 2014", "description": "\u6bcf\u4e94\u5206\u949f\u68c0\u7d22\u4e00\u6b21\u5b98\u65b9\u7f51\u7ad9\uff0c\u81ea\u52a8\u53d1\u5e03\u6700\u65b0\u4fe1\u606f\u3002\u6bcf\u4e24\u5c0f\u65f6\u6eda\u52a8\u91cd\u64ad\u6700\u8fd1\u4e8c\u5341\u56db\u5c0f\u65f6\u7684\u63a8\u6587\u3002", "followers_count": 31, "friends_count": 50, "id": 2647994180, "lang": "zh-cn", "name": "\u4e2d\u7eaa\u59d4\u6848\u4ef6\u67e5\u5904", "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2647994180/1405438133", "profile_image_url": "https://pbs.twimg.com/profile_images/492180012057894912/g7dWtpwq_normal.png", "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "protected": false, "screen_name": "ccdiajcc", "statuses_count": 59, "time_zone": "Beijing", "url": "http://t.co/sPiys4yXBY", "utc_offset": 28800}}
+2014-07-29 Tuesday 00:00:25 EDT
+2014-07-29 Tuesday 00:05:02 EDT
+2014-07-29 Tuesday 00:10:03 EDT
+2014-07-29 Tuesday 00:15:04 EDT
+2014-07-29 Tuesday 00:20:02 EDT
+2014-07-29 Tuesday 00:25:05 EDT
+2014-07-29 Tuesday 00:30:02 EDT
+2014-07-29 Tuesday 00:35:02 EDT
+2014-07-29 Tuesday 00:40:04 EDT
+2014-07-29 Tuesday 00:45:03 EDT
+2014-07-29 Tuesday 00:50:02 EDT
+2014-07-29 Tuesday 00:55:03 EDT
+2014-07-29 Tuesday 01:00:02 EDT
+2014-07-29 Tuesday 01:05:04 EDT
+2014-07-29 Tuesday 01:10:02 EDT
+2014-07-29 Tuesday 01:15:02 EDT
+2014-07-29 Tuesday 01:20:03 EDT
+2014-07-29 Tuesday 01:25:03 EDT
+2014-07-29 Tuesday 01:30:02 EDT
+2014-07-29 Tuesday 01:35:03 EDT
+2014-07-29 Tuesday 01:40:02 EDT
+2014-07-29 Tuesday 01:45:02 EDT
+2014-07-29 Tuesday 01:50:03 EDT
+2014-07-29 Tuesday 01:55:02 EDT
+2014-07-29 Tuesday 02:00:03 EDT
+2014-07-29 Tuesday 02:05:02 EDT
+2014-07-29 Tuesday 02:10:03 EDT
+2014-07-29 Tuesday 02:15:02 EDT
+2014-07-29 Tuesday 02:20:02 EDT
+2014-07-29 Tuesday 02:25:02 EDT
+2014-07-29 Tuesday 02:30:03 EDT
+2014-07-29 Tuesday 02:35:02 EDT
+2014-07-29 Tuesday 02:40:03 EDT
+2014-07-29 Tuesday 02:45:02 EDT
+2014-07-29 Tuesday 02:50:03 EDT
+2014-07-29 Tuesday 02:55:03 EDT
+2014-07-29 Tuesday 03:00:02 EDT
+2014-07-29 Tuesday 03:05:02 EDT
+2014-07-29 Tuesday 03:10:03 EDT
+2014-07-29 Tuesday 03:15:02 EDT
+2014-07-29 Tuesday 03:20:03 EDT
+2014-07-29 Tuesday 03:25:02 EDT
+2014-07-29 Tuesday 03:30:03 EDT
+2014-07-29 Tuesday 03:35:02 EDT
+2014-07-29 Tuesday 03:40:02 EDT
+2014-07-29 Tuesday 03:45:02 EDT
+2014-07-29 Tuesday 03:50:03 EDT
+2014-07-29 Tuesday 03:55:02 EDT
+2014-07-29 Tuesday 04:00:02 EDT
+2014-07-29 Tuesday 04:05:03 EDT
+2014-07-29 Tuesday 04:10:02 EDT
+2014-07-29 Tuesday 04:15:03 EDT
+2014-07-29 Tuesday 04:20:02 EDT
+2014-07-29 Tuesday 04:25:02 EDT
+2014-07-29 Tuesday 04:30:03 EDT
+2014-07-29 Tuesday 04:35:02 EDT
+2014-07-29 Tuesday 04:40:04 EDT
+2014-07-29 Tuesday 04:45:03 EDT
+2014-07-29 Tuesday 04:50:02 EDT
+2014-07-29 Tuesday 04:55:03 EDT
+2014-07-29 Tuesday 05:00:02 EDT
+2014-07-29 Tuesday 05:05:03 EDT
+2014-07-29 Tuesday 05:10:02 EDT
+2014-07-29 Tuesday 05:15:03 EDT
+2014-07-29 Tuesday 05:20:02 EDT
+2014-07-29 Tuesday 05:25:02 EDT

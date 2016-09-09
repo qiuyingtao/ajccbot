@@ -1,0 +1,1 @@
+*/5 *   * * *   duporg  /usr/bin/python /home/duporg/ccdiajcc/jlscbot.py >> /home/duporg/ccdiajcc/jlscbot.out 2>&1
